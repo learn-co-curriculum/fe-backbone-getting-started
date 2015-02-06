@@ -11,4 +11,4 @@ These videos are also available as a single [continuous playlist from the link h
 
 <iframe width="100%" height="720" src="//www.youtube.com/embed/sHei05FCmgw?list=PLj148bJp5wiyKMxYka6m0pOfRzKzrQI5I" frameborder="0" allowfullscreen></iframe>
 
-<!-- [Slides](#) -->
+[Slides](https://drive.google.com/file/d/0ByDrHpWZB4J1eGdmVlo5TWZBemM/view?usp=sharing)
