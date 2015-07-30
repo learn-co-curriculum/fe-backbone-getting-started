@@ -1,9 +1,4 @@
----
-language: none
-tags: backbone, js, javascript, libraries, mv, mv*, frameworks
-type: lecture
-resources: 0
----
+
 
 ## Getting Started With Backbone JS ~ 40min
 
