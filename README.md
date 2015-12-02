@@ -8,3 +8,5 @@ These videos are also available as a single [continuous playlist from the link h
 
 [Slides](https://drive.google.com/file/d/0ByDrHpWZB4J1eGdmVlo5TWZBemM/view?usp=sharing)
 <a href='https://learn.co/lessons/fe-backbone-getting-started' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<a href='https://learn.co/lessons/fe-backbone-getting-started' data-visibility='hidden'>View this lesson on Learn.co</a>
