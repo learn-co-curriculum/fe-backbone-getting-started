@@ -8,4 +8,4 @@ These videos are also available as a single [continuous playlist from the link h
 
 [Slides](https://drive.google.com/file/d/0ByDrHpWZB4J1eGdmVlo5TWZBemM/view?usp=sharing)
 
-<a href='https://learn.co/lessons/fe-backbone-getting-started' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-backbone-getting-started' title='Getting Started With Backbone JS ~ 40min'>Getting Started With Backbone JS ~ 40min</a> on Learn.co and start learning to code for free.</p>
